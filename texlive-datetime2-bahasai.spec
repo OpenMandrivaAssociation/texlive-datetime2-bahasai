@@ -1,6 +1,6 @@
 Name:		texlive-datetime2-bahasai
 Version:	46287
-Release:	1
+Release:	2
 Summary:	Bahasai language module for the datetime2 package
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/datetime2-bahasai
