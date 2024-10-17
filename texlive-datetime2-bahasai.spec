@@ -3,7 +3,7 @@ Version:	46287
 Release:	2
 Summary:	Bahasai language module for the datetime2 package
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/datetime2-bahasai
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/datetime2-bahasai
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/datetime2-bahasai.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/datetime2-bahasai.doc.r%{version}.tar.xz
